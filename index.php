@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    hello world
+   <h1> welcome to my php page</h1>
+   <?php
+   echo 3*7;
+   ?>
+   
 </body>
 </html>
